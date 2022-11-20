@@ -8,5 +8,8 @@ html {
 }
 body {
   background: #eee;
+
+  background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+
   padding: 0 16px;
 }
